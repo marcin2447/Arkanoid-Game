@@ -1,0 +1,16 @@
+*.dll
+*.db
+*.sln
+.VC
+*.ogg
+
+ipch/
+
+.vs/
+include/
+lib/
+SFML-2.4.2-windows-vc14-32-bit/
+Debug/
+Release/
+deps/
+Arkanoid/SFML-2.4.2-windows-vc14-32-bit.zip
